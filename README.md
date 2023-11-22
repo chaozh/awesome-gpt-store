@@ -8,6 +8,7 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 - [Official Store](#official-store)
 - [Custom Store](#custom-store)
 - [Awesome List](#awesome-list)
+- [Deploy Web Version](#web-deployment)
 - [My Own Collection](#my-collection)
 
 ## [🌟 Official Store](#official-store)
@@ -56,6 +57,19 @@ Discover countless GPTs through these custom third-party GPTs Stores:
 [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) Collection of all the GPTs created by the community
 
 [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
+
+## [💻 Deploy Web Version](#web-deployment)
+
+- [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) Every front-end GUI client for ChatGPT
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): A well-designed cross-platform ChatGPT UI
+- [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) Own your own ChatGPT+Midjourney web service with one click
+- [ChatGpt-Web](https://github.com/79E/ChatGpt-Web) A commercially-viable ChatGpt web application built with React
+- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web)  Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)  GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) Minimal web UI for ChatGPT
+- [lobe-chat](https://github.com/lobehub/lobe-chat)  an open-source, high-performance chatbot framework. Supports one-click free deployment of your private ChatGPT/LLM web application
+- [FastGPT](https://github.com/labring/FastGPT) a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow
+- [ChatALL](https://github.com/sunner/ChatALL) Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS and more, discover the best answers
 
 ## [My Own Collection](#my-collection)
 
