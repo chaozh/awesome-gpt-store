@@ -5,10 +5,10 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 
 ## 📚 Table of Contents
 
-- [official store](#official-store)
-- [custom store](#custom-store)
-- [awesome list](#awesome-list)
-- [my collection](#my-collection)
+- [Official Store](#official-store)
+- [Custom Store](#custom-store)
+- [Awesome List](#awesome-list)
+- [My Own Collection](#my-collection)
 
 ## [🌟 Official Store](#official-store)
 
@@ -18,37 +18,34 @@ NO official store at the moment! That's why you need this awesomelist to find al
 
 Discover countless GPTs through these custom third-party GPTs Stores:
 
-- [GPTseek](https://gptseek.com/) Discover Great GPTs with user's vote
-- [Featured GPTs](https://www.featuredgpts.com/)
+- [GPTseek](https://gptseek.com/) discover great GPTs with user's vote
+- [GPT Tracker](https://gptstracker.com) Find the perfect plugin for ChatGPT to do anything with vote
+- [Featured GPTs](https://www.featuredgpts.com/) find custom GPTs that are truly useful for your tasks
+- [GTPsPedia](https://gptspedia.io)  Boost Your GPT's Reach with The Premier GPT Store
+- [GPT App Store](https://gptappstore.ai) Find all custom GPTs for ChatGPT in one place
+- [GPTsGarden](https://www.gptsgarden.com) find Best Custom Made GPTs 
+- [ShareGPTs](https://sharegpts.net)  free library for custom GPTs with vote
+- [GPTs Finder](https://gptsfinder.net) GPTs Directory with Hourly Updates
+- [GPTsdex](https://gptsdex.com/) Get the latest developments in GPTs before everyone else. 
+- [TopGPTs.ai](https://www.topgpts.ai/) The World's Largest Directory of GPT's updated daily
+- [JustGPTs](https://justgpts.com) The Largest Custom GPT Store Directory collected with a Google Form
+- [GPTs Hunt](https://www.gptshunt.tech) A place to find GPTs for any utility collected with a Google Form
+- [Direct GPTs](https://www.directgpts.com/) Share and Discover custom GPTs
+- [Quanthium](https://quanthium.io) Find an agent for any task
+- [Top GPTs](https://topgpts.store) Discover the latest custom GPTs on the OpenAI ChatGPT Store.
+- [Meetups.AI](https://meetups.ai/) Custom OpenAI Assistant directory collected with a Google Form
 - [GPTs Hunter](https://www.gptshunter.com)  data collected by github issues
-- [GPTs Works](https://gpts.works/) browser extension with , using the same data resource with GPTs Hunter
-- [GPTs Today](https://gptstoday.com) using the same data resource with GPTs Hunter
-- [GPTS Collections](https://gptscollection.xyz/)
-- [BestGPTs](https://bestgpts.app/)
-- [GPT Store apps](https://www.gptstoreapps.com/) Discover the best GPTs 
-- [MyGPTs](https://mygpts.dev/)
-- [GPTLet](https://gptlet.app)
+	- [MyGPTs](https://mygpts.dev/) with star and views statics, using the same data resource with GPTs Hunter
+	- [GPTs Works](https://gpts.works/) browser extension with search, using the same data resource with GPTs Hunter
+	- [GPTs Today](https://gptstoday.com) using the same data resource with GPTs Hunter
+	- [GPTS Collections](https://gptscollection.xyz/) front end search using the same data resource with GPTs Hunter
+	- [BestGPTs](https://bestgpts.app/) Discover The Best GPTs and custom versions of ChatGPT using the same data resource with GPTs Hunter
+	- [GPT Store apps](https://www.gptstoreapps.com/) Discover the best GPTs using the same data resource with GPTs Hunter
+	- [GPTs Map](https://gptsmap.xyz) using the same data resource with GPTs Hunter
+	- [CUSTOM GPTs](https://www.customgpts.info) using the same data resource with GPTs Hunter
 - [Custom GPTs Store](https://gpts-list.com) A Nortion page displaying a curated collection of Custom GPTs listed by Google Sheet
-- [GTPsPedia](https://gptspedia.io)
-- [GPTs Map](https://gptsmap.xyz)
-- [GPT App Store](https://gptappstore.ai)
-- [GPTsGarden](https://www.gptsgarden.com)
-- [Quanthium](https://quanthium.io)
-- [JustGPTs](https://justgpts.com)
-- [CUSTOM GPTs](https://www.customgpts.info)
-- [Top GPTs](https://topgpts.store)
-- [GPT Tracker](https://gptstracker.com)
-- [GPTs Hunt](https://www.gptshunt.tech)
-- [ShareGPTs](https://sharegpts.net)
-- [GPTs Finder](https://gptsfinder.net)
-- [GPTs House](https://gptshouse.com/)
-- [Meetups.AI](https://meetups.ai/)
-- [GPTsdex](https://gptsdex.com/)
-- [GPTs Gallery](https://www.gptsgallery.com/)
-- [Direct GPTs](https://www.directgpts.com/)
-- [TopGPTs.ai](https://www.topgpts.ai/)
-- [FlowGPT](https://flowgpt.com)  FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world.
 - [Custom GPT Store powered by ChatGPT ](https://www.thesamur.ai/custom-gpt-store) A collection of major GPTS available in public listed by a github awesome project
+- [FlowGPT](https://flowgpt.com)  FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world.
 
 ## [Other Awesome List](#awesome-list)
 
