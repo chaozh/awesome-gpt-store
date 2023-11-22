@@ -1,5 +1,7 @@
 
-<h1 align="center">A place to find all Custom Stores and OpenAI Official Store for ChatGPT and related apps. | Awesome ChatGPT Store 🚀</h1>
+<h1 align="center">Awesome ChatGPT Store 🚀</h1>
+
+A place to find all Custom Stores and OpenAI Official Store for ChatGPT and related apps.
 
 ## 📚 Table of Contents
 
@@ -16,12 +18,14 @@ NO official store at the moment! That's why you need this awesomelist to find al
 
 Discover countless GPTs through these custom third-party GPTs Stores:
 
-- [GPTS Collections](https://gptscollection.xyz/)
+- [GPTseek](https://gptseek.com/) Discover Great GPTs with user's vote
 - [Featured GPTs](https://www.featuredgpts.com/)
 - [GPTs Hunter](https://www.gptshunter.com)  data collected by github issues
 - [GPTs Works](https://gpts.works/) browser extension with , using the same data resource with GPTs Hunter
 - [GPTs Today](https://gptstoday.com) using the same data resource with GPTs Hunter
+- [GPTS Collections](https://gptscollection.xyz/)
 - [BestGPTs](https://bestgpts.app/)
+- [GPT Store apps](https://www.gptstoreapps.com/) Discover the best GPTs 
 - [MyGPTs](https://mygpts.dev/)
 - [GPTLet](https://gptlet.app)
 - [Custom GPTs Store](https://gpts-list.com) A Nortion page displaying a curated collection of Custom GPTs listed by Google Sheet
@@ -56,7 +60,7 @@ Discover countless GPTs through these custom third-party GPTs Stores:
 
 [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
 
-## [My Collection](#my-collection)
+## [My Own Collection](#my-collection)
 
 ### [📝 Text](#text)
 
