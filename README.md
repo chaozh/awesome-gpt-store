@@ -16,13 +16,13 @@ NO official store at the moment! That's why you need this awesomelist to find al
 
 Discover countless GPTs through these custom third-party GPTs Stores:
 
+- [GPTS Collections](https://gptscollection.xyz/)
+- [Featured GPTs](https://www.featuredgpts.com/)
 - [GPTs Hunter](https://www.gptshunter.com)  data collected by github issues
 - [GPTs Works](https://gpts.works/) browser extension with , using the same data resource with GPTs Hunter
 - [GPTs Today](https://gptstoday.com) using the same data resource with GPTs Hunter
 - [BestGPTs](https://bestgpts.app/)
-- [Featured GPTs](https://www.featuredgpts.com/)
 - [MyGPTs](https://mygpts.dev/)
-- [GPTS Collections](https://gptscollection.xyz/)
 - [GPTLet](https://gptlet.app)
 - [Custom GPTs Store](https://gpts-list.com) A Nortion page displaying a curated collection of Custom GPTs listed by Google Sheet
 - [GTPsPedia](https://gptspedia.io)
@@ -48,13 +48,13 @@ Discover countless GPTs through these custom third-party GPTs Stores:
 
 ## [Other Awesome List](#awesome-list)
 
-[banbanlu233/awesome-GPTs: Discover the Best Custom GPTs at OpenAI's GPT Store](https://github.com/banbanlu233/awesome-GPTs)
+[banbanlu233/awesome-GPTs](https://github.com/banbanlu233/awesome-GPTs) Discover the Best Custom GPTs at OpenAI's GPT Store
 
-[yulongwang12/awesome-gpt-store: This repo includes all customized GPTs on openai gpt store](https://github.com/yulongwang12/awesome-gpt-store)
+[yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) This repo includes all customized GPTs on openai gpt store
 
-[taranjeet/awesome-gpts: Collection of all the GPTs created by the community](https://github.com/taranjeet/awesome-gpts)
+[taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) Collection of all the GPTs created by the community
 
-[Anil-matcha/Awesome-GPT-Store: Custom GPT Store - A collection of major GPTS available in public](https://github.com/Anil-matcha/Awesome-GPT-Store)
+[Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
 
 ## [My Collection](#my-collection)
 
