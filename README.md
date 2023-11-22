@@ -7,17 +7,17 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 
 - [Official Store](#official-store)
 - [Custom Store](#custom-store)
-- [Awesome List](#awesome-list)
-- [Deploy Web Version](#web-deployment)
-- [My Own Collection](#my-collection)
+- [Other Awesome List](#other-awesome-list)
+- [Deploy Web Version](#deploy-web-version)
+- [My Own Collection](#my-own-collection)
 
-## [🌟 Official Store](#official-store)
+## Official Store
 
-NO official store at the moment! That's why you need this awesomelist to find all the possible stores and apps with ChatGPT.
+🌟 NO official store at the moment! That's why you need this awesomelist to find all the possible stores and apps with ChatGPT.
 
-## [🌌 Custom Store](#custom-store)
+## Custom Store
 
-Discover countless GPTs through these custom third-party GPTs Stores:
+🌌 Discover countless GPTs through these custom third-party GPTs Stores:
 
 - [GPTseek](https://gptseek.com/) discover great GPTs with user's vote
 - [GPT Tracker](https://gptstracker.com) Find the perfect plugin for ChatGPT to do anything with vote
@@ -48,17 +48,18 @@ Discover countless GPTs through these custom third-party GPTs Stores:
 - [Custom GPT Store powered by ChatGPT ](https://www.thesamur.ai/custom-gpt-store) A collection of major GPTS available in public listed by a github awesome project
 - [FlowGPT](https://flowgpt.com)  FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world.
 
-## [Other Awesome List](#awesome-list)
+## Other Awesome List
 
-[banbanlu233/awesome-GPTs](https://github.com/banbanlu233/awesome-GPTs) Discover the Best Custom GPTs at OpenAI's GPT Store
+📝 Many others have collections of awesome GPTs in github repo
 
-[yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) This repo includes all customized GPTs on openai gpt store
+- [banbanlu233/awesome-GPTs](https://github.com/banbanlu233/awesome-GPTs) Discover the Best Custom GPTs at OpenAI's GPT Store
+- [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) This repo includes all customized GPTs on openai gpt store
+- [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) Collection of all the GPTs created by the community
+- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
 
-[taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) Collection of all the GPTs created by the community
+## Deploy Web Version
 
-[Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
-
-## [💻 Deploy Web Version](#web-deployment)
+💻 Open Source project to help you to deploy your own GPT web site with the help of OpenAI's ChatGPT API
 
 - [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) Every front-end GUI client for ChatGPT
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web): A well-designed cross-platform ChatGPT UI
@@ -71,7 +72,9 @@ Discover countless GPTs through these custom third-party GPTs Stores:
 - [FastGPT](https://github.com/labring/FastGPT) a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow
 - [ChatALL](https://github.com/sunner/ChatALL) Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS and more, discover the best answers
 
-## [My Own Collection](#my-collection)
+## My Own Collection
+
+A place for my own collection of GPTs
 
 ### [📝 Text](#text)
 
