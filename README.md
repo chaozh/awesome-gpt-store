@@ -35,6 +35,7 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 - [Quanthium](https://quanthium.io) Find an agent for any task
 - [Top GPTs](https://topgpts.store) Discover the latest custom GPTs on the OpenAI ChatGPT Store.
 - [Meetups.AI](https://meetups.ai/) Custom OpenAI Assistant directory collected with a Google Form
+- [GPTs URL](https://www.gptsurl.com/)  Opensource project Share and search GPTs url to use ChatGPT built with Astro
 - [GPTs Hunter](https://www.gptshunter.com)  data collected by github issues
 	- [MyGPTs](https://mygpts.dev/) with star and views statics, using the same data resource with GPTs Hunter
 	- [GPTs Works](https://gpts.works/) browser extension with search, using the same data resource with GPTs Hunter
