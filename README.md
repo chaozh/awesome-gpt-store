@@ -57,6 +57,8 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) This repo includes all customized GPTs on openai gpt store
 - [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) Collection of all the GPTs created by the community
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) Custom GPT Store - A collection of major GPTS available in public
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)  store all agent's system prompt 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs): learn from leaked prompts of GPTs
 
 ## Deploy Web Version
 
