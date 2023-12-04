@@ -48,6 +48,7 @@ A place to find all Custom Stores and OpenAI Official Store for ChatGPT and rela
 - [Custom GPTs Store](https://gpts-list.com) A Nortion page displaying a curated collection of Custom GPTs listed by Google Sheet
 - [Custom GPT Store powered by ChatGPT ](https://www.thesamur.ai/custom-gpt-store) A collection of major GPTS available in public listed by a github awesome project
 - [FlowGPT](https://flowgpt.com)  FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world.
+- [BestGPTs](https://github.com/AgentOps-AI/BestGPTs) Top ranked OpenAI GPTs, ranked and sorted by AgentOps
 
 ## Other Awesome List
 
